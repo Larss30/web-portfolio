@@ -387,7 +387,7 @@ function Portfolio() {
         </section>
 
         {/* Testimonials */}
-        <section id="reviews" className="border-b border-border bg-surface py-16 sm:py-20">
+        <section id="reviews" className="border-b border-border bg-surface py-16 sm:p-20">
           <SectionTitle eyebrow="What clients say" title="Reviews & testimonials" />
           <div className="grid gap-6 sm:grid-cols-2">
             {testimonials.map((t) => (
