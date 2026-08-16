@@ -335,7 +335,7 @@ function Portfolio() {
         </section>
 
         {/* Projects */}
-        <section id="projects" className="border-b border-border py-16 sm:py-20">
+        <section id="projects" className="border-border py-16 sm:py-20">
           <SectionTitle eyebrow="Featured projects" title="Selected client websites" />
           <div className="grid gap-4 sm:grid-cols-2">
             {projects.map((p) => (
@@ -383,7 +383,7 @@ function Portfolio() {
         </section>
 
         {/* Testimonials */}
-        <section id="reviews" className="border-b border-border sm:p-20">
+        <section id="reviews" className="border-b border-border">
           <SectionTitle eyebrow="What clients say" title="Reviews & testimonials" />
           <div className="grid gap-6 sm:grid-cols-2">
             {testimonials.map((t) => (
