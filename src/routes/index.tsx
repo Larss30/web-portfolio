@@ -83,7 +83,7 @@ const projects = [
     url: "https://birdiebreaks.com/",
     name: "Birdie Breaks",
     note: "Upcoming WordPress site with WP Travel Engine — all functionality and design implementation.",
-    image: '/images/birdie-screenshot.jpg',
+    image: '/images/birdie-breaks-screenshot.jpg',
   },
   {
     url: "https://evbays.co.uk/",
