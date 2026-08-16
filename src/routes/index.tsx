@@ -110,10 +110,6 @@ const pastWork = [
   { name: "AIS Elevate AU", note: "Product data import, WooCommerce setup." },
   { name: "Premium Clean NZ", note: "SEO and site maintenance." },
   { name: "Effly", note: "SEO, site updates and maintenance." },
-  {
-    name: "Kids Eat Free (staging)",
-    note: "Site-wide style overhaul and rework of single listing pages in the backend.",
-  },
   { name: "bespokewebdesign.ca", note: "Vanilla HTML/CSS updates and SEO blog integration." },
   { name: "MPC", note: "Major website updates." },
   { name: "KMS", note: "Overall website setup — vanilla HTML, CSS and JS." },
