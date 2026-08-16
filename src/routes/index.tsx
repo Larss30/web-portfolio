@@ -59,7 +59,7 @@ const projects = [
     url: "https://evolve-studio.co.uk/",
     name: "Evolve Studio",
     note: "Podcast studio and marketing agency I worked for.",
-    image: null,
+    image: '/images/evolve-screenshot.jpg',
   },
   {
     url: "https://igniteservice.co.uk/",
