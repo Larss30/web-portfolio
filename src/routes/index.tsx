@@ -101,7 +101,7 @@ const projects = [
     url: "https://sopm.co.uk/",
     name: "SOPM",
     note: "Evolve Studio website I currently manage.",
-    image: OnErrorEventHandlerNonNull,
+    image: null,
   },
 ];
 
