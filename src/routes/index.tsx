@@ -83,25 +83,25 @@ const projects = [
     url: "https://birdiebreaks.com/",
     name: "Birdie Breaks",
     note: "Upcoming WordPress site with WP Travel Engine — all functionality and design implementation.",
-    image: null,
+    image: '/images/birdie-screenshot.jpg',
   },
   {
     url: "https://evbays.co.uk/",
     name: "EV Bays",
     note: "Evolve Studio website I currently manage.",
-    image: null,
+    image: '/images/evbays-screenshot.jpg',
   },
   {
     url: "https://fun-play.co.uk/",
     name: "Fun Play",
     note: "Evolve Studio website I currently manage.",
-    image: null,
+    image: '/images/fun-play-screenshot.jpg',
   },
   {
     url: "https://sopm.co.uk/",
     name: "SOPM",
     note: "Evolve Studio website I currently manage.",
-    image: null,
+    image: '/images/sopm-screenshot.jpg',
   },
 ];
 
