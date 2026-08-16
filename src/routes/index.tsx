@@ -77,7 +77,7 @@ const projects = [
     url: "https://www.mmslimited.co.uk/",
     name: "MMS Limited",
     note: "Squarespace site — layout and content overhaul.",
-    image: null,
+    image: '/images/mms-screenshot.jpg',
   },
   {
     url: "https://birdiebreaks.com/",
