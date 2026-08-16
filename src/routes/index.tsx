@@ -344,7 +344,7 @@ function Portfolio() {
                 href={p.url}
                 target="_blank"
                 rel="noreferrer"
-                className="group rounded-lg border border-border p-5 transition-all hover:border-primary hover:shadow-card"
+                className="group rounded-lg border border-border p-5 transition-all hover:border-primary bg-surface hover:shadow-card"
               >
                 {p.image ? (
                   <img
@@ -383,7 +383,7 @@ function Portfolio() {
         </section>
 
         {/* Testimonials */}
-        <section id="reviews" className="border-b border-border bg-surface py-16 sm:p-20">
+        <section id="reviews" className="border-b border-border sm:p-20">
           <SectionTitle eyebrow="What clients say" title="Reviews & testimonials" />
           <div className="grid gap-6 sm:grid-cols-2">
             {testimonials.map((t) => (
