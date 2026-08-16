@@ -65,7 +65,7 @@ const projects = [
     url: "https://igniteservice.co.uk/",
     name: "Ignite Service",
     note: "WordPress build — technical side, in collaboration with Evolve Studio.",
-    image: null,
+    image: '/images/ignite-screenshot.jpg',
   },
   {
     url: "https://premierserviceltd.co.uk/",
