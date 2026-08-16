@@ -71,7 +71,7 @@ const projects = [
     url: "https://premierserviceltd.co.uk/",
     name: "Premier Service Ltd",
     note: "WordPress build — technical side, in collaboration with Evolve Studio.",
-    image: null,
+    image: '/images/premier-screenshot.jpg',
   },
   {
     url: "https://www.mmslimited.co.uk/",
