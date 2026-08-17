@@ -29,7 +29,7 @@ const skills = [
   { label: "Dev Tools", items: ["Git", "cPanel", "phpMyAdmin"] },
   {
     label: "Plugins & APIs",
-    items: ["Elementor", "WooCommerce", "AIOSEO", "Zapier", "SMTP", "Google Analytics"],
+    items: ["Elementor", "WooCommerce", "AIOSEO", "Zapier", "SMTP", "Google Analytics", "Amelia Booking Plugin"],
   },
   {
     label: "SEO & CRO",
@@ -141,6 +141,8 @@ const experience = [
       "Developed a custom Caregiver Appointment System with scheduling and availability management (WordPress + PHP, under NDA).",
       "Built and maintained static websites and additional WordPress websites.",
       "Converted visitors into customers for a site that had no sales since launch.",
+      "Has been the sole web developer for Marketing Agency company for a year with almost no issues and handled all the projects very well.",
+      "Provided a more practical, one-time payment alternative to PDF Flipbooks instead of an expensive monthly subscription for a company",
       "Currently maintaining live client websites.",
     ],
   },
