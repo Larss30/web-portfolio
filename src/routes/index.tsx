@@ -25,7 +25,7 @@ export const Route = createFileRoute("/")({
 
 const skills = [
   { label: "Languages & Tools", items: ["HTML", "CSS", "JavaScript", "PHP", "MySQL"] },
-  { label: "CMS & Frameworks", items: ["WordPress", "WooCommerce", "Ionic", "React"] },
+  { label: "CMS & Frameworks", items: ["WordPress", "WooCommerce", "SquareSpace", "Ionic", "React"] },
   { label: "Dev Tools", items: ["Git", "cPanel", "phpMyAdmin"] },
   {
     label: "Plugins & APIs",
